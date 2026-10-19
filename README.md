@@ -1,5 +1,9 @@
 # Vibe Scrolling
 
+<p align="center">
+  <img src="assets/banner.png" alt="A developer leans back with their feet on the desk, watching a vertical video on one monitor while the other monitor shows code generating by itself" width="800">
+</p>
+
 > You vibe code. Claude does the work. Why are you still staring at the terminal?
 
 **vibe-scrolling** is a Claude Code plugin that opens Instagram Reels every time you send a prompt, then drags you back to your terminal when Claude is done.
