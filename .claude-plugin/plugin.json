@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Opens Instagram Reels every time you send a prompt, and drags you back when Claude is done. Productivity is overrated.",
   "author": {
-    "name": "Samet"
+    "name": "scaltunsoy"
   },
   "license": "MIT",
   "keywords": ["fun", "joke", "procrastination", "reels", "doomscrolling", "hooks"]
