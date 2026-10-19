@@ -20,7 +20,7 @@ So you know exactly what you're installing:
 Inside Claude Code:
 
 ```
-/plugin marketplace add <your-github-username>/vibe-scrolling
+/plugin marketplace add scaltunsoy/vibe-scrolling
 /plugin install vibe-scrolling@vibe-scrolling
 ```
 
