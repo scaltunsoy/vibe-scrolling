@@ -1,0 +1,18 @@
+# vibe-scrolling settings
+# Copy to ~/.config/vibe-scrolling/config, or just use /vibe-scrolling:config inside Claude Code.
+# Any key can also be overridden with an environment variable, e.g. VIBE_SCROLLING_BROWSER=firefox
+
+# Master switch. false = the plugin does nothing.
+enabled=true
+
+# default, safari, chrome, brave, edge, arc, vivaldi, chromium, firefox, or any app name / command
+browser=default
+
+# What to open. Reels by default, obviously.
+url=https://www.instagram.com/reels/
+
+# Minimum seconds between openings. 0 = every single prompt.
+cooldown=0
+
+# macOS: when Claude finishes, switch back to your terminal (only if you are still in the browser).
+return=true

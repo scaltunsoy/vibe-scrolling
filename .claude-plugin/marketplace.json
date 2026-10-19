@@ -1,0 +1,14 @@
+{
+  "name": "vibe-scrolling",
+  "description": "Home of vibe-scrolling: the Claude Code plugin nobody asked for.",
+  "owner": {
+    "name": "Samet"
+  },
+  "plugins": [
+    {
+      "name": "vibe-scrolling",
+      "source": "./",
+      "description": "Opens Instagram Reels every time you send a prompt, and drags you back when Claude is done."
+    }
+  ]
+}
